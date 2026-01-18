@@ -17,8 +17,10 @@ public class stringmethod8 {
         String str9 = "aB9b";
         System.out.println(str9.matches("[a-z][A-C][0-9][a-z]"));
 
-        
-
+        String str11 = "9";
+        System.out.println(str11.matches("8|9"));
+        String str2 = "bc";
+        System.out.println(str2.matches("bc"));
 
     }
 }
