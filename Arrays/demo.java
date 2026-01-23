@@ -7,5 +7,9 @@ public class demo {
         for(int i =0;i<A.length;i++){
             System.out.print(A[i]+" ");
         }  
+        System.out.println();
+        for(int x:A){
+            System.out.print(x+" ");
+        }
     }
 }
