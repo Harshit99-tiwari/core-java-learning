@@ -10,9 +10,9 @@ public class twoDdemo {
         //int c[][];
        // c = new int[4][4];
 
-        int[] e,f[];
-        e = new int[5];
-        f = new int[4][3];
+       // int[] e,f[];
+       // e = new int[5];
+       // f = new int[4][3];
 
     }
 }
