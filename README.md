@@ -55,6 +55,20 @@ Each folder represents a specific topic with multiple problems and implementatio
 - Return types
 - Method overloading
 - Var-args methods
+
+### 📁 OOP
+- Class
+- Object
+- Data hiding
+- Constructors
+
+### 📁 Inheritance
+- Inheritance basic
+- ThisvsSuper key
+- Method overloading
+- Method overriding
+- Polymorphism
+- Dynamic method dispatch
 ---
 
 ## 🎯 Objective
@@ -76,9 +90,9 @@ Each folder represents a specific topic with multiple problems and implementatio
 
 ---
 ## 📌 Currently Learning
-- OOP Concepts
-- Inheritance (In Progress)
-- Abstract Class (Upcoming)
+- Abstract Class 
+- Interface
+- Inner classes(upcoming)
 
 
 📌 This repository reflects my consistent practice and structured learning approach in Java.
