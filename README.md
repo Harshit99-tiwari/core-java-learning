@@ -69,6 +69,10 @@ Each folder represents a specific topic with multiple problems and implementatio
 - Method overriding
 - Polymorphism
 - Dynamic method dispatch
+
+### 📁 AbstractClass
+- Abstract class
+- Abstract function
 ---
 
 ## 🎯 Objective
@@ -90,9 +94,8 @@ Each folder represents a specific topic with multiple problems and implementatio
 
 ---
 ## 📌 Currently Learning
-- Abstract Class 
 - Interface
-- Inner classes(upcoming)
+- Inner classes
 
 
 📌 This repository reflects my consistent practice and structured learning approach in Java.
