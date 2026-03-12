@@ -73,6 +73,13 @@ Each folder represents a specific topic with multiple problems and implementatio
 ### 📁 AbstractClass
 - Abstract class
 - Abstract function
+
+### 📁 Interfaces
+- Interface basic concept
+- Implementing interfaces
+- Multiple interface implementation
+- Callback method using interface
+
 ---
 
 ## 🎯 Objective
@@ -94,8 +101,9 @@ Each folder represents a specific topic with multiple problems and implementatio
 
 ---
 ## 📌 Currently Learning
-- Interface
 - Inner classes
+- Static classes
+- Final classes
 
 
 📌 This repository reflects my consistent practice and structured learning approach in Java.
