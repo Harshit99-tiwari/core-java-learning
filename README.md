@@ -80,6 +80,13 @@ Each folder represents a specific topic with multiple problems and implementatio
 - Multiple interface implementation
 - Callback method using interface
 
+### 📁  Inner,Static and Final classes
+- Inner class concept
+- Static class
+- Final class
+- Inner,Static,Final nested class
+- Use cases
+
 ---
 
 ## 🎯 Objective
@@ -101,9 +108,8 @@ Each folder represents a specific topic with multiple problems and implementatio
 
 ---
 ## 📌 Currently Learning
-- Inner classes
-- Static classes
-- Final classes
+- Exception Handling
+- Multithreading
 
 
 📌 This repository reflects my consistent practice and structured learning approach in Java.
