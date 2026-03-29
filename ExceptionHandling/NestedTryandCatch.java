@@ -1,4 +1,4 @@
-package ExceptionalHandling;
+package ExceptionHandling;
 
 public class NestedTryandCatch {
     public static void main(String[] args) {
