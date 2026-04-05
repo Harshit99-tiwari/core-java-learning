@@ -87,6 +87,12 @@ Each folder represents a specific topic with multiple problems and implementatio
 - Inner,Static,Final nested class
 - Use cases
 
+### 📁 Exception Handling
+- Handling Exceptions
+- Class Exception
+- Throw vs Throws
+- Try with resources
+
 ---
 
 ## 🎯 Objective
@@ -108,7 +114,6 @@ Each folder represents a specific topic with multiple problems and implementatio
 
 ---
 ## 📌 Currently Learning
-- Exception Handling
 - Multithreading
 
 
