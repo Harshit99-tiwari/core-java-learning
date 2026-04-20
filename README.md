@@ -93,6 +93,12 @@ Each folder represents a specific topic with multiple problems and implementatio
 - Throw vs Throws
 - Try with resources
 
+### 📁 Multithreading
+- Thread vs Process
+- Thread Lifecycle (States)
+- Thread Creation
+- Thread Synchronization
+
 ---
 
 ## 🎯 Objective
@@ -114,7 +120,7 @@ Each folder represents a specific topic with multiple problems and implementatio
 
 ---
 ## 📌 Currently Learning
-- Multithreading
+- JAVA LANG CLASSES AND JAVA IO CLASSES
 
 
 📌 This repository reflects my consistent practice and structured learning approach in Java.
