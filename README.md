@@ -99,6 +99,19 @@ Each folder represents a specific topic with multiple problems and implementatio
 - Thread Creation
 - Thread Synchronization
 
+### 📁 Java.lang.package
+- Object class
+- String class
+- StringBuilder vs StringBuffer
+- Wrapper Classes
+- Math class
+- System class
+- Runtime class
+- Enum
+- Reflection API
+- Class class
+- Autoboxing & Unboxing
+
 ---
 
 ## 🎯 Objective
@@ -120,7 +133,7 @@ Each folder represents a specific topic with multiple problems and implementatio
 
 ---
 ## 📌 Currently Learning
-- JAVA LANG CLASSES AND JAVA IO CLASSES
+- Java Swing & JavaFX
 
 
 📌 This repository reflects my consistent practice and structured learning approach in Java.
