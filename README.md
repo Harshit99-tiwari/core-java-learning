@@ -1,7 +1,7 @@
-# Core Java Learning 🚀
+# Core Java Learning ☕
 
-This repository contains my structured Core Java practice programs.
-Each folder represents a specific topic with multiple problems and implementations.
+This repository contains my Core Java learning journey.
+It includes concept-wise programs and practice code covering Java fundamentals, OOP, Collections, Exception Handling, Multithreading, and more.
 
 ---
 
@@ -111,6 +111,70 @@ Each folder represents a specific topic with multiple problems and implementatio
 - Reflection API
 - Class class
 - Autoboxing & Unboxing
+
+## 📂 Java Doc
+
+* Introduction to JavaDoc
+* JavaDoc Tags
+* Generating Documentation
+* Custom JavaDoc Comments
+* Best Practices
+
+## 📂 LambdaExpression
+
+* Lambda Expression Syntax
+* Functional Interface
+* Method Reference
+* Lambda with Collections
+* Built-in Functional Interfaces
+
+## 📂 Java IO Stream
+
+* Byte Streams
+* Character Streams
+* Buffered Streams
+* File Handling
+* Serialization
+
+## 📂 Java Generics
+
+* Generic Class
+* Generic Method
+* Bounded Type Parameters
+* Wildcards
+* Type Erasure
+
+## 📂 Date and Time API
+
+* LocalDate
+* LocalTime
+* LocalDateTime
+* DateTimeFormatter
+* Period & Duration
+
+## 📂 Network Programming
+
+* InetAddress
+* URL & URLConnection
+* Socket Programming
+* ServerSocket
+* TCP Client-Server
+
+## 📂 Java AWT
+
+* AWT Components
+* Layout Managers
+* Event Handling
+* Graphics
+* Menu & Dialog
+
+## 📂 Java Swing
+
+* JFrame
+* Swing Components
+* Layout Managers
+* Event Handling
+* JTable & JMenu
 
 ---
 
