@@ -1,118 +1,150 @@
 # Core Java Learning ☕
 
 This repository contains my Core Java learning journey.
-It includes concept-wise programs and practice code covering Java fundamentals, OOP, Collections, Exception Handling, Multithreading, and more.
+It includes concept-wise programs and practice code covering Java fundamentals, OOP, Collections, Exception Handling, Multithreading, Java I/O, Generics, Lambda Expressions, JDBC, and more.
 
 ---
 
 ## 📂 Folder Structure & Topics
 
 ### 📁 Basics
-- Variables & Data Types
-- Input / Output
-- Basic programs
+
+* Variables & Data Types
+* Input / Output
+* Basic Programs
 
 ### 📁 operator_and_expression
-- Arithmetic Operators
-- Relational Operators
-- Logical Operators
-- Expression evaluation problems
 
-### 📁 Conditional Statements
-- if statement
-- if-else
-- else-if ladder
-- switch case problems
-- Logical condition problems
+* Arithmetic Operators
+* Relational Operators
+* Logical Operators
+* Expression Evaluation Problems
+
+### 📁 Conditional_Statements
+
+* if Statement
+* if-else
+* else-if Ladder
+* switch Case Problems
+* Logical Condition Problems
 
 ### 📁 Loops
-- for loop
-- while loop
-- do-while loop
-- Series programs (AP, GP, Fibonacci)
-- Pattern problems
+
+* for Loop
+* while Loop
+* do-while Loop
+* Series Programs (AP, GP, Fibonacci)
+* Pattern Problems
 
 ### 📁 Arrays
-- 1D array traversal
-- Counting elements
-- Searching elements
-- Basic array logic problems
 
-### 📁 TWOArray (2D Array)
-- 2D array traversal
-- Matrix row & column operations
-- Nested loop practice
+* 1D Array Traversal
+* Counting Elements
+* Searching Elements
+* Basic Array Logic Problems
+
+### 📁 TWOArray
+
+* 2D Array Traversal
+* Matrix Row & Column Operations
+* Nested Loop Practice
 
 ### 📁 String
-- String traversal
-- Palindrome checking
-- String comparison
-- Built-in string methods
+
+* String Traversal
+* Palindrome Checking
+* String Comparison
+* Built-in String Methods
 
 ### 📁 Methods
-- Method creation
-- Parameter passing
-- Return types
-- Method overloading
-- Var-args methods
+
+* Method Creation
+* Parameter Passing
+* Return Types
+* Method Overloading
+* Var-args Methods
 
 ### 📁 OOP
-- Class
-- Object
-- Data hiding
-- Constructors
+
+* Class
+* Object
+* Data Hiding
+* Constructors
 
 ### 📁 Inheritance
-- Inheritance basic
-- ThisvsSuper key
-- Method overloading
-- Method overriding
-- Polymorphism
-- Dynamic method dispatch
 
-### 📁 AbstractClass
-- Abstract class
-- Abstract function
+* Basic Inheritance
+* this vs super
+* Method Overloading
+* Method Overriding
+* Polymorphism
+* Dynamic Method Dispatch
+
+### 📁 AbstractClasses
+
+* Abstract Class
+* Abstract Method
 
 ### 📁 Interfaces
-- Interface basic concept
-- Implementing interfaces
-- Multiple interface implementation
-- Callback method using interface
 
-### 📁  Inner,Static and Final classes
-- Inner class concept
-- Static class
-- Final class
-- Inner,Static,Final nested class
-- Use cases
+* Interface Basic Concept
+* Implementing Interfaces
+* Multiple Interface Implementation
+* Callback Method Using Interface
 
-### 📁 Exception Handling
-- Handling Exceptions
-- Class Exception
-- Throw vs Throws
-- Try with resources
+### 📁 Innerclasses
+
+* Inner Class
+* Member Inner Class
+* Local Inner Class
+* Anonymous Inner Class
+
+### 📁 Staticandfinal
+
+* Static Members
+* Static Methods
+* Static Blocks
+* Final Variables
+* Final Methods
+* Final Classes
+
+### 📁 ExceptionHandling
+
+* Handling Exceptions
+* Exception Class
+* throw vs throws
+* Try-with-resources
 
 ### 📁 Multithreading
-- Thread vs Process
-- Thread Lifecycle (States)
-- Thread Creation
-- Thread Synchronization
 
-### 📁 Java.lang.package
-- Object class
-- String class
-- StringBuilder vs StringBuffer
-- Wrapper Classes
-- Math class
-- System class
-- Runtime class
-- Enum
-- Reflection API
-- Class class
-- Autoboxing & Unboxing
+* Thread vs Process
+* Thread Lifecycle
+* Thread Creation
+* Thread Synchronization
 
-## 📂 Java Doc
+### 📁 Collections
+
+* List
+* Set
+* Map
+* Iterator
+* Comparable & Comparator
+
+### 📁 JavalangPackage
+
+* Object Class
+* String Class
+* StringBuilder vs StringBuffer
+* Wrapper Classes
+* Math Class
+* System Class
+* Runtime Class
+* Enum
+* Reflection API
+* Class Class
+* Autoboxing & Unboxing
+
+### 📁 JavaDoc
 
 * Introduction to JavaDoc
 * JavaDoc Tags
@@ -120,7 +152,7 @@ It includes concept-wise programs and practice code covering Java fundamentals, 
 * Custom JavaDoc Comments
 * Best Practices
 
-## 📂 LambdaExpression
+### 📁 LambdaExpression
 
 * Lambda Expression Syntax
 * Functional Interface
@@ -128,7 +160,7 @@ It includes concept-wise programs and practice code covering Java fundamentals, 
 * Lambda with Collections
 * Built-in Functional Interfaces
 
-## 📂 Java IO Stream
+### 📁 JavaIOstreams
 
 * Byte Streams
 * Character Streams
@@ -136,7 +168,7 @@ It includes concept-wise programs and practice code covering Java fundamentals, 
 * File Handling
 * Serialization
 
-## 📂 Java Generics
+### 📁 JavaGenerics
 
 * Generic Class
 * Generic Method
@@ -144,7 +176,7 @@ It includes concept-wise programs and practice code covering Java fundamentals, 
 * Wildcards
 * Type Erasure
 
-## 📂 Date and Time API
+### 📁 DateTimeAPI
 
 * LocalDate
 * LocalTime
@@ -152,7 +184,7 @@ It includes concept-wise programs and practice code covering Java fundamentals, 
 * DateTimeFormatter
 * Period & Duration
 
-## 📂 Network Programming
+### 📁 Networkprogramming
 
 * InetAddress
 * URL & URLConnection
@@ -160,7 +192,7 @@ It includes concept-wise programs and practice code covering Java fundamentals, 
 * ServerSocket
 * TCP Client-Server
 
-## 📂 Java AWT
+### 📁 JavaAWT
 
 * AWT Components
 * Layout Managers
@@ -168,7 +200,7 @@ It includes concept-wise programs and practice code covering Java fundamentals, 
 * Graphics
 * Menu & Dialog
 
-## 📂 Java Swing
+### 📁 JavaSwing
 
 * JFrame
 * Swing Components
@@ -176,28 +208,54 @@ It includes concept-wise programs and practice code covering Java fundamentals, 
 * Event Handling
 * JTable & JMenu
 
+### 📁 JavaFX
+
+* JavaFX Setup
+* Stage & Scene
+* UI Components
+* Layouts
+* Event Handling
+
+### 📁 JDBCPostgreSQL
+
+* PostgreSQL Database Connection
+* JDBC Driver
+* SQL Queries
+* CRUD Operations
+
 ---
 
 ## 🎯 Objective
 
-- Build strong Core Java fundamentals
-- Improve logical and problem-solving skills
-- Prepare foundation for:
-  - Data Structures & Algorithms
-  - Advanced Java
-  - Backend Development
+* Build strong Core Java fundamentals
+* Practice Java concepts through programs
+* Improve logical and problem-solving skills
+* Build a strong foundation for:
+
+  * Data Structures & Algorithms
+  * Advanced Java
+  * Backend Development
 
 ---
 
 ## 🛠 Tools Used
 
-- Java (JDK 25)
-- VS Code
-- Git & GitHub
+* Java (JDK 25)
+* VS Code
+* Git & GitHub
+* PostgreSQL
 
 ---
-## 📌 Currently Learning
-- Java Swing & JavaFX
 
+## ✅ Learning Status
+
+**Core Java Completed**
+
+Currently focusing on:
+
+* Data Structures & Algorithms
+* Java Backend Development
+
+---
 
 📌 This repository reflects my consistent practice and structured learning approach in Java.
